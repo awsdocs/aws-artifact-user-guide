@@ -1,6 +1,6 @@
 # Managing an Agreement for a Single Account<a name="managesingleagreement"></a>
 
-You can accept agreements for just your account,  even if your account is a member account in an organization in AWS Organizations\. For more information about AWS Organizations, see the [AWS Organizations User Guide](http://docs.aws.amazon.com/organizations/latest/userguide/)\. 
+You can accept agreements for just your account,  even if your account is a member account in an organization in AWS Organizations\. For more information about AWS Organizations, see the [AWS Organizations User Guide](https://docs.aws.amazon.com/organizations/latest/userguide/)\. 
 
 ## Accepting an Agreement with AWS<a name="enteragreement"></a>
 

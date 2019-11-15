@@ -1,7 +1,7 @@
 # Document History for AWS Artifact<a name="doc-history"></a>
 
 The following table describes the documentation for this release of AWS Artifact\.
-+ **Latest documentation update:** June 5th, 2018
++ **Latest documentation update:** June 20th, 2018
 
 
 ****  

@@ -1,6 +1,4 @@
-# Managing an Existing Offline Agreement<a name="manageofflineagreement"></a>
-
-Before you can view your accepted agreements for the first time, including the agreements that you accepted offline, follow the [Getting Started with AWS Artifact](getting-started.md) process\. After you go through all of the Getting Started steps, you can use the AWS Artifact console to view your offline agreements\.
+# Managing an existing offline agreement in AWS Artifact<a name="manage-offline-agreement"></a>
 
 If you have an existing offline agreement, AWS Artifact displays the agreements that you accepted offline\. For example, the console might display the **Offline Business Associate Addendum \(BAA\)** with an **Active** status\. The active status indicates that the agreement was accepted\. To terminate an offline agreement, see the termination guidelines and instructions that are included in your agreement\.
 
@@ -21,4 +19,4 @@ If your account is a member account in an organization, you must have the follow
 organizations:DescribeOrganization 
 ```
 
-For more information about creating policies, see [Create an IAM Policy](controlling-access.md#create-iam-policy)\.
+For more information, see [Identity and access management](security-iam.md)\.

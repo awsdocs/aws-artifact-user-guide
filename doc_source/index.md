@@ -1,7 +1,7 @@
 # AWS Artifact User Guide
 
 -----
-*****Copyright &copy; 2019 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy; 2020 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -14,13 +14,12 @@ Amazon's trademarks and trade dress may not be used in
 
 -----
 ## Contents
-+ [What Is AWS Artifact?](what-is-aws-artifact.md)
-+ [Setting Up AWS Artifact](setting-up.md)
-+ [Getting Started with AWS Artifact](getting-started.md)
-+ [Downloading Reports in AWS Artifact](downloading-documents.md)
-+ [Managing Your Agreements in AWS Artifact](managingagreements.md)
-   + [Managing an Agreement for a Single Account](managesingleagreement.md)
-   + [Managing an Agreement for Multiple Accounts](manageorgagreement.md)
-   + [Managing an Existing Offline Agreement](manageofflineagreement.md)
-+ [Controlling Access](controlling-access.md)
-+ [Document History for AWS Artifact](doc-history.md)
++ [What is AWS Artifact?](what-is-aws-artifact.md)
++ [Getting started with AWS Artifact](getting-started.md)
++ [Downloading reports in AWS Artifact](downloading-documents.md)
++ [Managing agreements in AWS Artifact](managing-agreements.md)
+   + [Managing an agreement for a single account in AWS Artifact](manage-single-agreement.md)
+   + [Managing an agreement for multiple accounts in AWS Artifact](manage-org-agreement.md)
+   + [Managing an existing offline agreement in AWS Artifact](manage-offline-agreement.md)
++ [Identity and access management in AWS Artifact](security-iam.md)
++ [Document history for AWS Artifact](doc-history.md)
